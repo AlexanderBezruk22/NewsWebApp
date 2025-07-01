@@ -8,6 +8,6 @@ http://localhost:8080/news?categories=journey&categories=family
 ```
 ## Технологии:
 - **Язык**: Go
-- **Фреймворк**: Gin
+- **Фреймворк**: Fiber
 - **Контейнеризация**: Docker
 - **База данных**: PostgreSql
